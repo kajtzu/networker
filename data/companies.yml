@@ -4,7 +4,6 @@ upcloud:
   asn:
     - 25697
   site: https://upcloud.com/
----
 basen:
   name: BaseN Corporation
   asn:
